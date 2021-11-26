@@ -7,7 +7,7 @@ body{
     /* background-repeat: no-repeat; */
     /* background-size: cover; */
 } 
-.stopWatch{
+*{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
